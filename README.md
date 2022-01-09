@@ -1,2 +1,0 @@
-# leigme.github.io
-blog
